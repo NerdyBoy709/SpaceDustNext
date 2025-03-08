@@ -1,9 +1,5 @@
 # SpaceDustNext
-Mod aims to provide wider range of harvestable resources for both stock and modded planets. In future I plan to add compatibility for other planet packs. 
-
-# Features 
-* Extended list of harvestable resources for stock planets.
-* Extended list of harvestable resources for planets from Kcalbeloh Planet Pack.
+Mod aims to provide wider range of harvestable resources for both stock and modded planets through Space Dust mod. In future I plan to add compatibility for other planet packs. 
 
 # Dependencies 
 * https://github.com/post-kerbin-mining-corporation/SpaceDust
