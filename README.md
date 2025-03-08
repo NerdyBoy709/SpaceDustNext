@@ -1,6 +1,5 @@
 # SpaceDustNext
-
-# Mod aims to provide wider range of harvestable resources for both stock and modded planets. In future I plan to add compatibility for other planet packs. 
+Mod aims to provide wider range of harvestable resources for both stock and modded planets. In future I plan to add compatibility for other planet packs. 
 
 # Features 
 * Extended list of harvestable resources for stock planets.
