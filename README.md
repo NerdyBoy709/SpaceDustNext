@@ -10,7 +10,7 @@ Mod aims to provide wider range of harvestable resources for both stock and modd
 This mod is inpiered and based on work of JadeofMaar's SpaceDustBunnies and Vexxel's SpaceDustUnbound.
 
 # Instalation
-* Download "Source Code (zip)"
+* Download zip file
 * Copy SpaceDustNext folder from zip file
 * Place Folder inside GameDate
 * Enjoy
