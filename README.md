@@ -16,6 +16,8 @@ Mod aims to provide wider range of harvestable resources for both stock and modd
 * Rock
 * Water
 
+If u dont want LiquidFuel and Oxidizer replacment delete LqdOxygen/Methane confing files inside GameData/SpaceDustNext/Patches/SpaceDust/
+
 # Featured Planet Packs
 * Stock System
 * Kcalbeloh
