@@ -24,7 +24,7 @@ If u dont want LiquidFuel and Oxidizer replacment delete LqdOxygen/Methane confi
 * Quack Pack
 * OPM
 * MPE
-* KSS2 coming soon tm...
+* KSS2
 
 # Credits 
 This mod is inpiered and based on work of JadeofMaar's SpaceDustBunnies and Vexxel's SpaceDustUnbound.
