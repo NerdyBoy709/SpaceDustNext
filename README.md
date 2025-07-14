@@ -4,14 +4,14 @@
 
 Mod aims to provide wider range of harvestable resources for both stock and modded planets through Space Dust mod. In future I plan to add compatibility for other planet packs. In case of any isues contact me on discord.
 
-Dependencies
+**Dependencies**
 
 * SpadeDust
 * ModuleManager
 * B9PartSwitch
 * Community Resource Pack
 
-Featured Resources
+**Featured Resources**
 
 * LqdAmmonia
 * LqdCO2
@@ -23,7 +23,7 @@ Featured Resources
 
 If u dont want LiquidFuel and Oxidizer replacment delete LqdOxygen/Methane confing files inside GameData/SpaceDustNext/Patches/SpaceDust/
 
-Featured Planet Packs
+**Featured Planet Packs**
 
 * Stock System
 * Kcalbeloh System
@@ -35,7 +35,7 @@ Featured Planet Packs
 * Debdeb Planet Pack 
 * Khelderos Planet Pack
 
-Credits
+**Credits**
 
 This mod is inpiered and based on work of **JadeofMaar**'s SpaceDustBunnies and **Vexxel**'s SpaceDustUnbound.
 
