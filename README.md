@@ -1,4 +1,4 @@
-#***SpaceDustNext***#
+***SpaceDustNext***
 
 <img width="1075" height="860" alt="image" src="https://github.com/user-attachments/assets/7e216176-4a48-4496-9d74-4a512bc4e9f2" />
 
