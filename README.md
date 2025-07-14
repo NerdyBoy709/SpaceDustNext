@@ -1,5 +1,7 @@
 SpaceDustNext
 
+<img width="1075" height="860" alt="image" src="https://github.com/user-attachments/assets/7e216176-4a48-4496-9d74-4a512bc4e9f2" />
+
 Mod aims to provide wider range of harvestable resources for both stock and modded planets through Space Dust mod. In future I plan to add compatibility for other planet packs. In case of any isues contact me on discord.
 
 Dependencies
