@@ -1,4 +1,4 @@
-SpaceDustNext
+**SpaceDustNext**
 
 Mod aims to provide wider range of harvestable resources for both stock and modded planets through Space Dust mod. In future I plan to add compatibility for other planet packs. In case of any isues contact me on discord.
 
