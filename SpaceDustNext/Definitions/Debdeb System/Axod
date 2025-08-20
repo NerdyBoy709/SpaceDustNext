@@ -1,0 +1,343 @@
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+{
+	resourceName = LqdHe3
+	body = Axod
+	
+	RESOURCEBAND
+	{
+		name = axodAtmo
+		title = #LOC_SpaceDust_Band_Atmosphere
+		
+		minAbundance = 2.428E-06
+		maxAbundance = 2.428E-06
+		
+		alwaysDiscovered = false
+		alwaysIdentified = false
+		
+		remoteDiscoveryScale = 0.01
+		discoveryScienceReward = 25
+	    identifyScienceReward = 25
+		
+		useAirDensity = True
+		densityCurve
+		{
+			key = 0 0
+			key = 1 1
+			key = 12 12
+		}
+		distributionType = Spherical
+		
+		altUpperBound = 165000
+		altLowerBound = -20000
+		altPeak = 0
+		altVariability = 0
+		altFalloffType = Linear
+		
+		latUpperBound = 90
+		latLowerBound = -90
+		latPeak = 0
+		latVariability = 0
+		latFalloffType = None
+	}
+}
+
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+{
+	resourceName = LqdDeuterium
+	body = Axod
+	
+	RESOURCEBAND
+	{
+		name = axodAtmo
+		title = #LOC_SpaceDust_Band_Atmosphere
+		
+		minAbundance = 2.17028E-06
+		maxAbundance = 2.17028E-06
+		
+		alwaysDiscovered = false
+		alwaysIdentified = false
+		
+		remoteDiscoveryScale = 0.01
+		discoveryScienceReward = 25
+	    identifyScienceReward = 25
+		
+		useAirDensity = True
+		densityCurve
+		{
+			key = 0 0
+			key = 1 1
+			key = 12 12
+		}
+		distributionType = Spherical
+		
+		altUpperBound = 165000
+		altLowerBound = -20000
+		altPeak = 0
+		altVariability = 0
+		altFalloffType = Linear
+		
+		latUpperBound = 90
+		latLowerBound = -90
+		latPeak = 0
+		latVariability = 0
+		latFalloffType = None
+	}
+}
+
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+{
+	resourceName = LqdHydrogen
+	body = Axod
+	
+	RESOURCEBAND
+	{
+		name = axodAtmo
+		title = #LOC_SpaceDust_Band_Atmosphere
+		
+		minAbundance = 0.0017
+		maxAbundance = 0.0019
+		
+		alwaysDiscovered = false
+		alwaysIdentified = false
+		
+		remoteDiscoveryScale = 0.1
+		discoveryScienceReward = 10
+	    identifyScienceReward = 10
+		
+		useAirDensity = True
+		densityCurve
+		{
+			key = 0 0
+			key = 1 1
+			key = 12 12
+		}
+		distributionType = Spherical
+		
+		altUpperBound = 165000
+		altLowerBound = -20000
+		altPeak = 0
+		altVariability = 0
+		altFalloffType = Linear
+		
+		latUpperBound = 90
+		latLowerBound = -90
+		latPeak = 0
+		latVariability = 0
+		latFalloffType = None
+	}
+}
+
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+{
+	resourceName = LqdDeuterium
+	body = Axod
+	
+	RESOURCEBAND
+	{
+		name = axodExo
+		title = #LOC_SpaceDust_Band_Exosphere
+		
+		minAbundance = 2.17028E-15
+		maxAbundance = 2.17028E-15
+		
+		alwaysDiscovered = false
+		alwaysIdentified = false
+		
+		remoteDiscoveryScale = 0.01
+		discoveryScienceReward = 25
+	    identifyScienceReward = 25
+		
+		useAirDensity = True
+		densityCurve
+		{
+			key = 0 0
+			key = 1 1
+			key = 12 12
+		}
+		distributionType = Spherical
+		
+		altUpperBound = 165000000
+		altLowerBound = 165000
+		altPeak = 165000
+		altVariability = 0
+		altFalloffType = Linear
+		
+		latUpperBound = 90
+		latLowerBound = -90
+		latPeak = 0
+		latVariability = 0
+		latFalloffType = None
+	}
+}
+
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+{
+	resourceName = LqdHydrogen
+	body = Axod
+	
+	RESOURCEBAND
+	{
+		name = axodExo
+		title = #LOC_SpaceDust_Band_Exosphere
+		
+		minAbundance = 0.0000000000017
+		maxAbundance = 0.0000000000019
+		
+		alwaysDiscovered = false
+		alwaysIdentified = false
+		
+		remoteDiscoveryScale = 0.1
+		discoveryScienceReward = 10
+	    identifyScienceReward = 10
+		
+		useAirDensity = True
+		densityCurve
+		{
+			key = 0 0
+			key = 1 1
+			key = 12 12
+		}
+		distributionType = Spherical
+		
+		altUpperBound = 165000000
+		altLowerBound = 165000
+		altPeak = 165000
+		altVariability = 0
+		altFalloffType = Linear
+		
+		latUpperBound = 90
+		latLowerBound = -90
+		latPeak = 0
+		latVariability = 0
+		latFalloffType = None
+	}
+}
+
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+{
+	resourceName = LqdMethane
+	body = Axod
+	
+	RESOURCEBAND
+	{
+		name = axodAtmo
+		title = #LOC_SpaceDust_Band_LowAtmosphere
+		
+		minAbundance = 0.00017
+		maxAbundance = 0.00019
+		
+		alwaysDiscovered = false
+		alwaysIdentified = false
+		
+		remoteDiscoveryScale = 0.1
+		discoveryScienceReward = 10
+	    identifyScienceReward = 10
+		
+		useAirDensity = True
+		densityCurve
+		{
+			key = 0 0
+			key = 1 1
+			key = 12 12
+		}
+		distributionType = Spherical
+		
+		altUpperBound = 82500
+		altLowerBound = -20000
+		altPeak = 0
+		altVariability = 0
+		altFalloffType = Linear
+		
+		latUpperBound = 90
+		latLowerBound = -90
+		latPeak = 0
+		latVariability = 0
+		latFalloffType = None
+	}
+}
+
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+{
+	resourceName = LqdAmmonia
+	body = Axod
+	
+	RESOURCEBAND
+	{
+		name = axodAtmo
+		title = #LOC_SpaceDust_Band_Atmosphere
+		
+		minAbundance = 2.83E-05
+		maxAbundance = 2.83E-04
+		
+		alwaysDiscovered = false
+		alwaysIdentified = false
+		
+		remoteDiscoveryScale = 0.1
+		discoveryScienceReward = 10
+	    identifyScienceReward = 10
+		
+		useAirDensity = True
+		densityCurve
+		{
+			key = 0 0
+			key = 1 1
+			key = 12 12
+		}
+		distributionType = Spherical
+		
+		altUpperBound = 165000
+		altLowerBound = -20000
+		altPeak = 0
+		altVariability = 0
+		altFalloffType = Linear
+		
+		latUpperBound = 90
+		latLowerBound = -90
+		latPeak = 0
+		latVariability = 0
+		latFalloffType = None
+	}
+}
+
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+{
+	resourceName = Water
+	body = Axod
+	
+	RESOURCEBAND
+	{
+		name = axodAtmo
+		title = #LOC_SpaceDust_Band_LowAtmosphere
+		
+		minAbundance = 2.83E-05
+		maxAbundance = 2.83E-04
+		
+		alwaysDiscovered = false
+		alwaysIdentified = false
+		
+		remoteDiscoveryScale = 0.1
+		discoveryScienceReward = 10
+	    identifyScienceReward = 10
+		
+		useAirDensity = True
+		densityCurve
+		{
+			key = 0 0
+			key = 1 1
+			key = 12 12
+		}
+		distributionType = Spherical
+		
+		altUpperBound = 55000
+		altLowerBound = -20000
+		altPeak = 0
+		altVariability = 0
+		altFalloffType = Linear
+		
+		latUpperBound = 90
+		latLowerBound = -90
+		latPeak = 0
+		latVariability = 0
+		latFalloffType = None
+	}
+}
