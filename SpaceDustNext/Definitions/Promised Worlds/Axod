@@ -1,4 +1,4 @@
-SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&PromisedWorlds]
 {
 	resourceName = LqdHe3
 	body = Axod
@@ -41,7 +41,7 @@ SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
 	}
 }
 
-SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&PromisedWorlds]
 {
 	resourceName = LqdDeuterium
 	body = Axod
@@ -84,7 +84,7 @@ SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
 	}
 }
 
-SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&PromisedWorlds]
 {
 	resourceName = LqdHydrogen
 	body = Axod
@@ -127,7 +127,7 @@ SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
 	}
 }
 
-SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&PromisedWorlds]
 {
 	resourceName = LqdDeuterium
 	body = Axod
@@ -170,7 +170,7 @@ SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
 	}
 }
 
-SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&PromisedWorlds]
 {
 	resourceName = LqdHydrogen
 	body = Axod
@@ -213,7 +213,7 @@ SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
 	}
 }
 
-SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&PromisedWorlds]
 {
 	resourceName = LqdMethane
 	body = Axod
@@ -256,7 +256,7 @@ SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
 	}
 }
 
-SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&PromisedWorlds]
 {
 	resourceName = LqdAmmonia
 	body = Axod
@@ -299,7 +299,7 @@ SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
 	}
 }
 
-SPACEDUST_RESOURCE:NEEDS[SpaceDust&DebdebSystem]
+SPACEDUST_RESOURCE:NEEDS[SpaceDust&PromisedWorlds]
 {
 	resourceName = Water
 	body = Axod
