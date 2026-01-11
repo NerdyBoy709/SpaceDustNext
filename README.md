@@ -32,7 +32,7 @@ If u dont want LiquidFuel and Oxidizer replacment delete LqdOxygen/Methane confi
 * MPE
 * KSS2
 * JNSQ ( uncompress file when u want to use it )
-* Debdeb Planet Pack 
+* Promised Worlds 
 * Khelderos Planet Pack
 
 **Credits**
