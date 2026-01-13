@@ -21,7 +21,6 @@ Mod aims to provide wider range of harvestable resources for both stock and modd
 * Rock
 * Water
 * LqdCO **SOON**
-* Caesium **SOON**
 * Silicates **SOON**
 * ExoticMinerals **SOON**
 
