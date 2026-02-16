@@ -37,6 +37,7 @@ If u dont want LiquidFuel and Oxidizer replacment delete LqdOxygen/Methane confi
 * JNSQ ( uncompress file when u want to use it )
 * Promised Worlds 
 * Khelderos Planet Pack
+* Eternal
 
 **Credits**
 
