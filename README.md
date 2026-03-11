@@ -20,9 +20,6 @@ Mod aims to provide wider range of harvestable resources for both stock and modd
 * LqdOxygen
 * Rock
 * Water
-* LqdCO **SOON**
-* Silicates **SOON**
-* ExoticMinerals **SOON**
 
 If u dont want LiquidFuel and Oxidizer replacment delete LqdOxygen/Methane confing files inside GameData/SpaceDustNext/Patches/SpaceDust/
 
